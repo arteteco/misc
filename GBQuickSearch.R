@@ -1,5 +1,7 @@
 #!/usr/bin/env Rscript
 
+# If you don't plan on using it from the command line, you can import it all as a function from the file GBQuickSearchFunc.R
+
 library("rentrez")
 
 # For testing purposes
